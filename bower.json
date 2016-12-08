@@ -1,0 +1,20 @@
+{
+  "name": "personal-blog-static",
+  "homepage": "https://github.com/CJ-Zheng1023/personal-blog-static",
+  "authors": [
+    "AfterWin <CJ_Zheng1023@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "static/components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
