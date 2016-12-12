@@ -1,0 +1,23 @@
+.location li{
+    margin-bottom: 15px;
+}
+.location li i{
+    margin-right: 15px;
+    color: #ccd1d6;
+}
+.location li a{
+    color: #2d844e;
+}
+.blog-item{
+    margin-bottom: 30px;
+}
+.blog-item .title{
+    font-size: 18px;
+    margin-top: 0;
+}
+.blog-item .title a {
+    color: #778492;
+}
+.blog-item p{
+    margin: 0 0 10px 0;
+}

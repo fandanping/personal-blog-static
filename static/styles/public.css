@@ -34,6 +34,9 @@ body{
 .header .btn-view{
     margin-top: 60px;
 }
+.header .btn-view i{
+    margin-right: 5px;
+}
 .main{
     padding: 60px 0;
 }
